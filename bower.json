@@ -1,0 +1,24 @@
+{
+  "name": "angular-animate",
+  "authors": [
+    "cyper <345343747@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.9",
+    "angular-route": "~1.4.9",
+    "angular-animate": "~1.4.9",
+    "bootstrap": "~3.3.6"
+  }
+}
